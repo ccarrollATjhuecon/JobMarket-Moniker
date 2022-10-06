@@ -16,7 +16,9 @@ Steps:
    * You should give the repo the name 'JobMarket-[your-moniker-here]'
    * Make it a "Private" repo
    * Click "include all branches"
-   * Click the ![Create repository from template](Create-Your-JobMarket-Repo.png) button
+   * Click the green [Create repository from template]() button
+
+![](Create-Your-JobMarket-Repo.png) button
    
 
 If you are at least a little bit familiar with how git and GitHub work:
